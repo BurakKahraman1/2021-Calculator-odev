@@ -1,0 +1,42 @@
+body{
+background-color: gray;
+
+}
+.kutu{
+    height: 450px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: burlywood;
+    margin: auto;
+    position: relative;
+    top: 50px;
+}
+.banner{
+    height: 100px;
+    width: 586px;
+    margin: 5px;
+    border: 2px solid black;
+    font-size: 30px;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 10px;
+}
+.yazila{
+    width: 550px;
+    height: 30px;
+    margin: 10px 20px 20px 20px;
+    text-align: right;
+    font-size: 35px;
+    border-radius: 10px;
+}
+.kutucuk{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 8px;
+}
+.kutucuk:hover{
+    background-color: black;
+    color: aqua;
+}
